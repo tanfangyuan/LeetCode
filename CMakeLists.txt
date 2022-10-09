@@ -8,6 +8,5 @@ add_library(leetcode ${LEETCODE})
 LINK_LIBRARIES(leetcode)
 
 
-add_executable(1-two-sum leetcode/editor/cn/1-two-sum.cpp)
-add_executable(100-same-tree leetcode/editor/cn/100-same-tree.cpp)
 add_executable(15-3sum leetcode/editor/cn/15-3sum.cpp)
+add_executable(146-lru-cache leetcode/editor/cn/146-lru-cache.cpp)

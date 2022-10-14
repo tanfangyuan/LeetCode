@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/121-best-time-to-buy-and-sell-stock.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/121-best-time-to-buy-and-sell-stock.md" />
+              <option name="frontendQuestionId" value="leetcode.cn121" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/121-best-time-to-buy-and-sell-stock.cpp" />
+              <option name="titleSlug" value="best-time-to-buy-and-sell-stock" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/146-lru-cache.cpp">
           <value>
             <LeetcodeEditor>

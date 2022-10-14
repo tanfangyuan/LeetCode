@@ -14,3 +14,4 @@ add_executable(96-unique-binary-search-trees leetcode/editor/cn/96-unique-binary
 add_executable(543-diameter-of-binary-tree leetcode/editor/cn/543-diameter-of-binary-tree.cpp)
 add_executable(207-course-schedule leetcode/editor/cn/207-course-schedule.cpp)
 add_executable(5-longest-palindromic-substring leetcode/editor/cn/5-longest-palindromic-substring.cpp)
+add_executable(121-best-time-to-buy-and-sell-stock leetcode/editor/cn/121-best-time-to-buy-and-sell-stock.cpp)

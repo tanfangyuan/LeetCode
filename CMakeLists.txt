@@ -17,3 +17,5 @@ add_executable(5-longest-palindromic-substring leetcode/editor/cn/5-longest-pali
 add_executable(121-best-time-to-buy-and-sell-stock leetcode/editor/cn/121-best-time-to-buy-and-sell-stock.cpp)
 add_executable(22-generate-parentheses leetcode/editor/cn/22-generate-parentheses.cpp)
 add_executable(11-container-with-most-water leetcode/editor/cn/11-container-with-most-water.cpp)
+add_executable(215-kth-largest-element-in-an-array leetcode/editor/cn/215-kth-largest-element-in-an-array.cpp)
+add_executable(200-number-of-islands leetcode/editor/cn/200-number-of-islands.cpp)

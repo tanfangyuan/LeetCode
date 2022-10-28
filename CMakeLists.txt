@@ -19,3 +19,4 @@ add_executable(22-generate-parentheses leetcode/editor/cn/22-generate-parenthese
 add_executable(11-container-with-most-water leetcode/editor/cn/11-container-with-most-water.cpp)
 add_executable(215-kth-largest-element-in-an-array leetcode/editor/cn/215-kth-largest-element-in-an-array.cpp)
 add_executable(200-number-of-islands leetcode/editor/cn/200-number-of-islands.cpp)
+add_executable(53-maximum-subarray leetcode/editor/cn/53-maximum-subarray.cpp)
